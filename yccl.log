@@ -1,0 +1,6 @@
+2019-08-21 20:58:35  doException.main(doException.java:11)  执行了计算的操作
+2019-08-21 21:12:20  doException.main(doException.java:11)  执行了计算的操作
+2019-08-21 21:13:09  doException.main(doException.java:11)  执行了计算的操作
+2019-08-21 21:14:26  doException.main(doException.java:11)  执行了计算的操作
+2019-08-21 21:14:28  doException.main(doException.java:22)  发生了异常：null
+2019-08-21 21:14:40  doException.main(doException.java:11)  执行了计算的操作

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="javax.annotation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ElWeb/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ElWeb/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ElWeb/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ElWeb/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ElWeb/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ElWeb/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ElWeb/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ElWeb/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ElWeb/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ElWeb/lib/mysql-connector-java-5.1.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
